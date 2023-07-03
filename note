@@ -1,0 +1,3 @@
+Install the required dependency, @polkadot/api, before running the script. The script connects to the Polkadot network via the provided WebSocket endpoint and listens for events emitted by the network. You can customize the script to subscribe to specific events by modifying the api.query.system.events section.
+
+This script provides a way to monitor events on the Polkadot network in real-time and allows you to take action based on the received event data. Feel free to customize it further according to your specific event monitoring needs.
